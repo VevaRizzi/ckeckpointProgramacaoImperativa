@@ -1,3 +1,8 @@
+// GRUPO 4 
+
+//Nomes: Mauro Lucio Marques, Veronica Rizzi, Bruno Batista, Ana Carolina Ribeiro, Fernanda Brum, Marcelo Nascimento
+
+
 function verificar(tempoPadrao, tempo) {
 
     if (tempo < tempoPadrao) {
